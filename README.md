@@ -226,6 +226,7 @@ Contributions are welcome! If you'd like to add more backtracking problems or im
 **Hurera Mujeeb**
 
 - GitHub: [@hureramujeeb60](https://github.com/hureramujeeb60)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/hurera-mujeeb-b88791235/)
 
 ---
 
